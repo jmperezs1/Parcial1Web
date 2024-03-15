@@ -1,0 +1,24 @@
+.font{
+    font-size: 36px;
+    margin-left: 300px;
+    font-weight: bold;
+}
+
+.dark-header {
+    background-color: #343a40 !important;
+    color: white !important;
+  }
+
+.flex{
+    display:flex;
+}
+
+.table-container {
+    width: 900px; 
+    position: absolute;
+    left: 80PX;
+  }
+
+  .card-container {
+    margin-left: 870px; 
+}

@@ -1,4 +1,38 @@
 .ancho{
     width:30%;
+    margin: 0 auto
+}
+
+.font{
+    font-size: 36px;
+    margin-left: 40px;
+    font-weight: bold;
+}
+
+.centrar{
     margin: 0 auto;
+}
+
+.fontInicio{
+    font-size: 32px;
+}
+
+.formato{
+    font-weight: bold;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+}
+
+.margenes{
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.error {
+    color: red;
+    font-size: 14px;
 }

@@ -1,0 +1,14 @@
+{
+    "InicioSesion": "Login",
+    "usuario": "Username",
+    "contraseña": "Password",
+    "boton1": "Login",
+    "boton2": "Cancel",
+    "Marca": "Brand",
+    "Linea": "Serie",
+    "Modelo": "Model",
+    "Kilometraje": "Mileage",
+    "Color": "Color",
+    "Referencia": "Reference",
+    "Error": "Authentication error. Check your username or password."
+}

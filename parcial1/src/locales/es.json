@@ -1,0 +1,14 @@
+{
+    "InicioSesion": "Inicio de Sesión",
+    "usuario": "Nombre de Usuario",
+    "contraseña": "Contraseña",
+    "boton1": "Iniciar Sesión",
+    "boton2": "Cancelar",
+    "Marca": "Marca",
+    "Linea": "Linea",
+    "Modelo": "Modelo",
+    "Kilometraje": "Kilometraje",
+    "Color": "Color",
+    "Referencia": "Referencia",
+    "Error": "Error de Autenticación. Revise sus credenciales"
+}
